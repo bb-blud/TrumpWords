@@ -1,8 +1,6 @@
 # TrumpWords
 
-Using word2vec to observe common themes on a very biased selection of text, i.e., a small compilation of words spoken by DJT  
-Nothing very deep is going on here, it mostly serves to get a toddler up to speed who has not been watching the news for 
-the past year and a half.
+Using word2vec to observe common themes on a very biased selection of text, i.e., a small compilation of words spoken by DJT. The data basically comes from a google search of "trump transcript". I gathered 18 transcipts from news websites containing speeches, interviews and debates, and did some minor pre-processing. Nothing very deep is going on here, it mostly serves to get a toddler up to speed who has not been watching the news for the past year and a half.
 
 ## Higlights!
 
